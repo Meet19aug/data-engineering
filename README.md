@@ -6,7 +6,6 @@
 - [What I Learn](#what-i-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 
@@ -14,7 +13,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](Data engineering architecture.png)
+![System Architecture](https://github.com/Meet19aug/data-engineering/blob/main/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 
